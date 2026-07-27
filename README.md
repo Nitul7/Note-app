@@ -30,23 +30,7 @@ A simple and responsive **Note Taking Application** built with **React.js** and 
 
 ### Home Page
 
-![Home Page](./screenshot/home.png)
-
----
-
-## 📂 Project Structure
-
-```text
-Note-app/
-│── public/
-│── src/
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── index.css
-│── package.json
-│── vite.config.js
-│── README.md
-```
+![Home Page](./
 
 ---
 
