@@ -30,7 +30,7 @@ A simple and responsive **Note Taking Application** built with **React.js** and 
 
 ### Home Page
 
-![Home Page](./
+![Home Page](./screenshot/home.png.png)
 
 ---
 
